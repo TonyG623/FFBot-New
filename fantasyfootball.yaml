@@ -1,0 +1,92 @@
+threads:
+#  - title: "WDIS QB"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'wdis'
+#  - title: "WDIS WR"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'wdis'
+#  - title: "WDIS RB"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'wdis'
+#  - title: "WDIS Flex"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'wdis'
+#  - title: "WDIS K/TE/DEF"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'wdis'
+    # - title: "Trade"
+    #flair_text: "Daily Thread"
+    #flair_css: "daily"
+    #wiki: 'trade'
+  - title: "Simple Questions and League Issues"
+    flair_text: "Daily Thread"
+    flair_css: "daily"
+    wiki: 'commish'
+#  - title: "Add/Drop"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'ww'
+  - title: "Keeper"
+    flair_text: "Daily Thread"
+    flair_css: "daily"
+    wiki: 'keeper'
+#  - title: "Who Do I Draft?"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'wdid'
+#  - title: "Rate My Team"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'rmt'
+#  - title: "Monday Miracle"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'monday'
+#    day: 'monday'
+#    sticky: True
+#  - title: "Tuesday Waiver Wire"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'tuesday'
+#    day: 'tuesday'
+#    sticky: True
+#  - title: "Wednesday Weekly Trade Value"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'wednesday'
+#    day: 'wednesday'
+#    sticky: True
+#  - title: "Thursday Throwdown"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'thursday'
+#    day: 'thursday'
+#    sticky: True
+#  - title: "Free Talk Friday"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'friday'
+#    day: 'friday'
+#    no_table: True
+#    sticky: True
+#  - title: "Last Minute Advice"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'saturday'
+#    day: 'saturday'
+#    sticky: True
+#    #  - title: "Fix My Team"
+#    #flair_text: "Daily Thread"
+#    #flair_css: "daily"
+#    #wiki: 'fixmyteam'
+index: False
+news_and_discussion: False
+posts_per_day: 1
+subreddit: "fantasyfootball"
+show_percents: False
+wdis_replace: True

@@ -1,0 +1,15 @@
+threads:
+  - title: "Who Do I Trade, Drop or Pickup? (Please post in here or your post will be deleted!)"
+    flair_text: "[Trade-Pickup]"
+    flair_css: "tradepickupthread"
+    wiki: 'droptrade'
+  - title: "Who Do I Start? (Please post in here or your post will be deleted!)"
+    flair_text: "[WhoToStart]"
+    flair_css: "startthread"
+    wiki: 'wdis'
+index: False
+news_and_discussion: False
+posts_per_day: 1
+subreddit: "fantasyhockey"
+show_percents: True
+wdis_replace: False

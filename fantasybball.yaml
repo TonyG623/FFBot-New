@@ -1,0 +1,35 @@
+threads:
+  - title: "Draft Questions"
+    flair_text: "Daily Thread"
+    flair_css: "daily"
+    wiki: 'draft'
+  - title: "Trade"
+    flair_text: "Daily Thread"
+    flair_css: "daily"
+    wiki: 'trade'
+  - title: "Rate My Team"
+    flair_text: "Daily Thread"
+    flair_css: "daily"
+    wiki: 'RMT'
+#  - title: "Keeper/Dynasty"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'Keeper'
+#  - title: "League Issues"
+#    flair_text: "Daily Thread"
+#    flair_css: "daily"
+#    wiki: 'leagueissues'
+  - title: "Roster Moves"
+    flair_text: "Daily Thread"
+    flair_css: "daily"
+    wiki: 'rostermoves'
+  - title: "Player vs Player"
+    flair_text: "Daily Thread"
+    flair_css: "daily"
+    wiki: 'playervs'
+index: True
+news_and_discussion: False
+posts_per_day: 1
+subreddit: "fantasybball"
+show_percents: True
+wdis_replace: False
